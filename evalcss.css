@@ -24,3 +24,16 @@ body {
     font-family: 'Kanit', sans-serif;
     margin-left: 180px;    
 }
+
+ul {
+    margin-left: 10px;
+}
+
+.button {
+    border-style: none;
+    background-color: #81ecec;  
+}
+
+a:hover {
+    background-color: #81ecec;
+}
