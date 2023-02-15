@@ -37,3 +37,27 @@ ul {
 a:hover {
     background-color: #81ecec;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 3%;
+}
+
+h2,
+.card-title {
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: bold;
+}
+
+.pictureCard {
+    max-width: 100%;
+    height: auto;
+}
+
+.card {
+    box-shadow: 5px 5px 5px #d1d8e0;
+    margin-bottom: 20px;
+}
